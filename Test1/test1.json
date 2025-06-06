@@ -1,0 +1,143 @@
+[
+	{
+		"name": "Testcase to login website 01",
+		"fullName": "Test case to login to main website www 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Username']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify user can log in with valid credentials ",
+		"fullName": "Verify user can log in with valid credentials  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Password']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify new user registration with valid data",
+		"fullName": "Verify new user registration with valid data 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='registraction']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify password reset email is sent when requested",
+		"fullName": "Verify password reset email is sent when requested 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='email']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify product search returns correct results ",
+		"fullName": "Verify product search returns correct results  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='submit']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify user can add a product to the shopping cart ",
+		"fullName": "Verify user can add a product to the shopping cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='shopping']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},
+	{
+		"name": "Verify user can remove a product from the cart",
+		"fullName": "Verify user can remove a product from the cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='search']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-05"
+	},	
+	{
+		"name": "Testcase to login website 01",
+		"fullName": "Test case to login to main website www 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Username']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can log in with valid credentials ",
+		"fullName": "Verify user can log in with valid credentials  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Password']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify new user registration with valid data",
+		"fullName": "Verify new user registration with valid data 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='registraction']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify password reset email is sent when requested",
+		"fullName": "Verify password reset email is sent when requested 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='email']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify product search returns correct results ",
+		"fullName": "Verify product search returns correct results  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='submit']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can add a product to the shopping cart ",
+		"fullName": "Verify user can add a product to the shopping cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='shopping']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can remove a product from the cart",
+		"fullName": "Verify user can remove a product from the cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='search']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},	
+	
+	{
+		"name": "Testcase to login website 01",
+		"fullName": "Test case to login to main website www 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Username']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can log in with valid credentials ",
+		"fullName": "Verify user can log in with valid credentials  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='Password']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify new user registration with valid data",
+		"fullName": "Verify new user registration with valid data 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='registraction']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify password reset email is sent when requested",
+		"fullName": "Verify password reset email is sent when requested 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='email']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify product search returns correct results ",
+		"fullName": "Verify product search returns correct results  01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='submit']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can add a product to the shopping cart ",
+		"fullName": "Verify user can add a product to the shopping cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='shopping']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Verify user can remove a product from the cart",
+		"fullName": "Verify user can remove a product from the cart 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='search']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-03"
+	},
+	{
+		"name": "Testcase to login website 01",
+		"fullName": "Test case to login to main website www 01",
+		"statusTrace": "Error: Can't call setValue on element with selector \"input[placeholder='search']\" because element wasn't found\n    at CgfLoginPage.login (/app/e2e/pageobjests/test_01/cgfLogin.page.js:19:24)\n     at World.<anonymous> (/app/e2e/pageobjests/test_01/commonlines.js:435:18)",
+		"date": "2025-06-02"
+	}
+]
+
+
+
+
+                       
+                         
+                   
+      
